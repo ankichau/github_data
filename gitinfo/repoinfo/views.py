@@ -21,3 +21,7 @@ def home(request):
 
 def index(request):
     return render(request, 'index.html')
+
+@login_required
+def home2(request):
+    return render(request, 'home2.html')

@@ -3,4 +3,7 @@
 {% block content %}
     <h1>Welcome , {{ user.username }} </h1>
     <a href="{% url 'LogOut' %}"> Logout </a>
+    <a href="{% url 'social:begin' 'github' %}">
+        <button type="button" name="button" class="btn btn-primary">Github</button>
+    </a>
 {% endblock %}
