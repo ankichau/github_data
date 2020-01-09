@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a59f8097-fb3e-48ad-9673-a790f40c4ac1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitinfo/repoinfo/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitinfo/repoinfo/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitinfo/repoinfo/templates/registration/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitinfo/repoinfo/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitinfo/db.sqlite3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gitinfo/gitinfo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitinfo/gitinfo/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gitinfo/gitinfo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitinfo/gitinfo/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitinfo/repoinfo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitinfo/repoinfo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitinfo/repoinfo/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/gitinfo/repoinfo/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitinfo/repoinfo/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gitinfo/repoinfo/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitinfo/repoinfo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitinfo/repoinfo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
